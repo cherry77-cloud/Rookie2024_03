@@ -9,6 +9,7 @@
 - [AcWing 788. 逆序对的数量](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0788.c++) 🧩
 - [AcWing 789. 数的范围](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0789.c++) 🧩
 - [AcWing 790. 数的三次方根](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0790.c%2B%2B) 🧩
+- [AcWing 791. 高精度加法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0791.c++) 🧩
 - **AcWing 791. 高精度加法**
 - **AcWing 792. 高精度减法**
 - **AcWing 793. 高精度乘法**
