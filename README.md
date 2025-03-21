@@ -1,9 +1,9 @@
-# AcWing 算法课程题目列表
+## AcWing 算法课程题目列表
 
 ---
 
-## 第一讲 基础算法
-- **AcWing 785. 快速排序**
+### 第一讲 基础算法
+- [AcWing 785. 快速排序](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0785.c++)
 - **AcWing 786. 第k个数**
 - **AcWing 787. 归并排序**
 - **AcWing 788. 逆序对的数量**
