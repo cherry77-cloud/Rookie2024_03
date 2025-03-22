@@ -12,7 +12,7 @@
 - [AcWing 791. 高精度加法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0791.c++) 🧩
 - [AcWing 792. 高精度减法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0792.c++) 🧩
 - [AcWing 793. 高精度乘法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0793.c++) 🧩
-- **AcWing 794. 高精度除法**
+- [AcWing 794. 高精度除法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0794.c++) 🧩
 - **AcWing 795. 前缀和**
 - **AcWing 796. 子矩阵的和**
 - **AcWing 797. 差分**
