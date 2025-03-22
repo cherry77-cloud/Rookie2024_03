@@ -43,7 +43,7 @@
 - **AcWing 838. 堆排序**
 - **AcWing 839. 模拟堆**
 - **AcWing 840. 模拟散列表**
-- **AcWing 841. 字符串哈希**
+- [AcWing 841. 字符串哈希](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_841.cpp) 🏗️
 
 ---
 
