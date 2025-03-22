@@ -16,7 +16,7 @@
 - [AcWing 795. 前缀和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_795.cpp) 🧩
 - [AcWing 796. 子矩阵的和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_796.cpp) 🧩
 - [AcWing 797. 差分](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_797.cpp) 🧩
-- **AcWing 798. 差分矩阵**
+- [AcWing 798. 差分矩阵](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_798.cpp) 🧩
 - **AcWing 799. 最长连续不重复子序列**
 - **AcWing 800. 数组元素的目标和**
 - **AcWing 2816. 判断子序列**
