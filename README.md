@@ -99,7 +99,7 @@
 ---
 
 ## 第五讲 动态规划
-- **AcWing 2. 01背包问题**
+- [AcWing 2. 0-1背包](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_2.cpp) 🎯
 - **AcWing 3. 完全背包问题**
 - **AcWing 4. 多重背包问题**
 - **AcWing 5. 多重背包问题 II**
