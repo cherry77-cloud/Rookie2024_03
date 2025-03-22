@@ -4,18 +4,18 @@
 
 ### 第一讲 基础算法
 - [AcWing 785. 快速排序](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0785.cpp) 🧩
-- [AcWing 786. 第K个数](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0786.c%2B%2B) 🧩
-- [AcWing 787. 归并排序](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0787.c++) 🧩
-- [AcWing 788. 逆序对的数量](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0788.c++) 🧩
-- [AcWing 789. 数的范围](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0789.c++) 🧩
-- [AcWing 790. 数的三次方根](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0790.c%2B%2B) 🧩
-- [AcWing 791. 高精度加法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0791.c++) 🧩
-- [AcWing 792. 高精度减法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0792.c++) 🧩
-- [AcWing 793. 高精度乘法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0793.c++) 🧩
-- [AcWing 794. 高精度除法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0794.c++) 🧩
-- [AcWing 795. 前缀和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0795.c++) 🧩
-- [AcWing 796. 子矩阵的和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0796.c%2B%2B) 🧩
-- [AcWing 797. 差分](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0797.c++) 🧩
+- [AcWing 786. 第K个数](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0786.cpp) 🧩
+- [AcWing 787. 归并排序](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0787.cpp) 🧩
+- [AcWing 788. 逆序对的数量](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0788.cpp) 🧩
+- [AcWing 789. 数的范围](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0789.cpp) 🧩
+- [AcWing 790. 数的三次方根](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0790.cpp) 🧩
+- [AcWing 791. 高精度加法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0791.cpp) 🧩
+- [AcWing 792. 高精度减法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0792.cpp) 🧩
+- [AcWing 793. 高精度乘法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0793.cpp) 🧩
+- [AcWing 794. 高精度除法](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0794.cpp) 🧩
+- [AcWing 795. 前缀和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0795.cpp) 🧩
+- [AcWing 796. 子矩阵的和](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0796.cpp) 🧩
+- [AcWing 797. 差分](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/1.%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/AcWing_0797.cpp) 🧩
 - **AcWing 798. 差分矩阵**
 - **AcWing 799. 最长连续不重复子序列**
 - **AcWing 800. 数组元素的目标和**
