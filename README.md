@@ -28,7 +28,7 @@
 
 ## 第二讲 数据结构
 - [AcWing 826. 单链表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_826.cpp) 🏗️
-- **AcWing 827. 双链表**
+- [AcWing 827. 双链表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_827.cpp) 🏗️
 - **AcWing 828. 模拟栈**
 - **AcWing 3302. 表达式求值**
 - **AcWing 829. 模拟队列**
