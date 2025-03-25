@@ -97,10 +97,10 @@
 ---
 
 ## 第五讲 动态规划
-- [AcWing 2. 0-1背包](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_2.cpp) 🎯
-- **AcWing 3. 完全背包问题**
-- **AcWing 4. 多重背包问题**
-- **AcWing 5. 多重背包问题 II**
+- [AcWing 2. 0-1背包问题](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_2.cpp) 🎯
+- [AcWing 3. 完全背包问题](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_3.cpp) 🎯
+- [AcWing 4. 多重背包问题](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_4.cpp) 🎯
+- [AcWing 5. 多重背包问题 II](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/5.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/AcWing_5.cpp) 🎯
 - **AcWing 9. 分组背包问题**
 - **AcWing 898. 数字三角形**
 - **AcWing 895. 最长上升子序列**
