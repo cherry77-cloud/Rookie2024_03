@@ -30,7 +30,6 @@
 - [AcWing 826. 单链表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_826.cpp) 🏗️
 - [AcWing 827. 双链表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_827.cpp) 🏗️
 - [AcWing 828. 模拟栈](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_828.cpp) 🏗️
-- **AcWing 3302. 表达式求值**
 - **AcWing 829. 模拟队列**
 - **AcWing 830. 单调栈**
 - [AcWing 831. KMP字符串](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_831.cpp) 🏗️
@@ -44,7 +43,7 @@
 - [AcWing 839. 模拟堆](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_839.cpp) 🏗️
 - [AcWing 840. 模拟散列表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_840.cpp) 🏗️
 - [AcWing 841. 字符串哈希](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_841.cpp) 🏗️
-
+- [AcWing 3302. 表达式求值](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_3302.cpp) 🏗️
 ---
 
 ## 第三讲 搜索与图论
