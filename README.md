@@ -33,7 +33,7 @@
 - [AcWing 829. 模拟队列](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_829.cpp) 🏗️
 - [AcWing 830. 单调栈](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_830.cpp) 🏗️
 - [AcWing 831. KMP字符串](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_831.cpp) 🏗️
-- **AcWing 835. Trie字符串统计**
+- [AcWing 835. Trie字符串统计](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_835.cpp) 🏗️
 - **AcWing 143. 最大异或对**
 - [AcWing 836. 合并集合](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_836.cpp) 🏗️
 - **AcWing 837. 连通块中点的数量**
