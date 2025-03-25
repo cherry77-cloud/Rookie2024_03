@@ -30,7 +30,7 @@
 - [AcWing 827. 双链表](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_827.cpp) 🏗️
 - [AcWing 828. 模拟栈](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_828.cpp) 🏗️
 - [AcWing 829. 模拟队列](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_829.cpp) 🏗️
-- **AcWing 830. 单调栈**
+- [AcWing 830. 单调栈](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_830.cpp) 🏗️
 - [AcWing 831. KMP字符串](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/2.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/AcWing_831.cpp) 🏗️
 - **AcWing 154. 滑动窗口**
 - **AcWing 835. Trie字符串统计**
