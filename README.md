@@ -53,7 +53,7 @@
 - **AcWing 846. 树的重心**
 - **AcWing 847. 图中点的层次**
 - **AcWing 848. 有向图的拓扑序列**
-- **AcWing 849. Dijkstra求最短路 I**
+- [AcWing 849. Dijkstra求最短路 I](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/3.%20%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%BE%E8%AE%BA/AcWing_849.cpp) 🗺️
 - **AcWing 850. Dijkstra求最短路 II**
 - **AcWing 853. 有边数限制的最短路**
 - **AcWing 851. spfa求最短路**
