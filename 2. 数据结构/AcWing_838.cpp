@@ -50,18 +50,18 @@ public:
 
 int main() {
     int n, m;
-    std::cin >> n >> m;
+    cin >> n >> m;
 
     MinHeap heap;
 
     for (int i = 0; i < n; ++i) {
         int x;
-        std::cin >> x;
+        cin >> x;
         heap.push(x);
     }
 
     for (int i = 0; i < m; ++i) {
-        std::cout << heap.top() << " ";
+        cout << heap.top() << " ";
         heap.pop();
     }
 
