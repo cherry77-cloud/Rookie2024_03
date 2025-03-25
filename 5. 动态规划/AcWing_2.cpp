@@ -5,8 +5,7 @@
 
 using namespace std;
 
-int zero_one_knapsack(const vector<int>& volumes, const vector<int>& weights, int capacity) 
-{
+int zero_one_knapsack(const vector<int>& volumes, const vector<int>& weights, int capacity) {
     vector<int> dp(capacity + 1, 0);
     
     for (int i = 0; i < volumes.size(); ++i) {
