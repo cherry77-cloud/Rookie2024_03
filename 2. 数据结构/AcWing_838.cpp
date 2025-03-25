@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <stdexcept>
 #include <algorithm>
 
 using namespace std;
@@ -8,44 +7,51 @@ using namespace std;
 class MinHeap {
 private:
     vector<int> heap;
+    int heapSize;
+
+    void heapSwap(int a, int b) {
+        swap(heap[a], heap[b]);
+    }
 
     void heapifyUp(int p) {
-        while (p > 0 && heap[p] < heap[(p - 1) / 2]) {
-            std::swap(heap[p], heap[(p - 1) / 2]);
-            p = (p - 1) / 2;
+        while (p > 1 && heap[p] < heap[p / 2]) {
+            heapSwap(p, p / 2);
+            p /= 2;
         }
     }
 
     void heapifyDown(int u) {
-        int size = heap.size();
-        while (true) {
-            int left = 2 * u + 1, right = 2 * u + 2, smallest = u;
-            if (left < size && heap[left] < heap[smallest]) smallest = left;
-            if (right < size && heap[right] < heap[smallest]) smallest = right;
-            if (smallest == u) break;
-            swap(heap[u], heap[smallest]);
-            u = smallest;
+        int smallest = u;
+        if (u * 2 <= heapSize && heap[u * 2] < heap[smallest]) smallest = u * 2;
+        if (u * 2 + 1 <= heapSize && heap[u * 2 + 1] < heap[smallest]) smallest = u * 2 + 1;
+        if (smallest != u) {
+            heapSwap(u, smallest);
+            heapifyDown(smallest);
         }
     }
 
 public:
+    MinHeap() {
+        heap.push_back(0);
+        heapSize = 0;
+    }
+
     void push(int value) {
         heap.push_back(value);
-        heapifyUp(heap.size() - 1);
+        heapSize++;
+        heapifyUp(heapSize);
     }
 
     void pop() {
-        heap[0] = heap.back();
+        heapSwap(1, heapSize);
         heap.pop_back();
-        if (!heap.empty()) heapifyDown(0);
+        heapSize--;
+        if (heapSize > 0) heapifyDown(1);
     }
 
-    int top() const {
-        return heap[0];
-    }
-
-    bool empty() const { return heap.empty(); }
-    size_t size() const { return heap.size(); }
+    int top() const { return heap[1]; }
+    bool empty() const { return heapSize == 0; }
+    size_t size() const { return heapSize; }
 };
 
 int main() {
