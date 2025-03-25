@@ -22,10 +22,10 @@ vector<pair<int, int>> slidingWindowMinMax(const vector<int>& nums, int k) {
         max_q.push_back(i);
         
         // 2. 后出队 - 移除不在窗口中的元素
-        while (!min_q.empty() && min_q.front() <= i - k) {
+        while (min_q.front() <= i - k) {
             min_q.pop_front();
         }
-        while (!max_q.empty() && max_q.front() <= i - k) {
+        while (max_q.front() <= i - k) {
             max_q.pop_front();
         }
         
