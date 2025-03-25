@@ -76,7 +76,7 @@
 - **AcWing 872. 最大公约数**
 - **AcWing 873. 欧拉函数**
 - **AcWing 874. 筛法求欧拉函数**
-- **AcWing 875. 快速幂**
+- [AcWing 875. 快速幂](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/4.%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86/AcWing_875.cpp) 🧮
 - **AcWing 876. 快速幂求逆元**
 - **AcWing 877. 扩展欧几里得算法**
 - **AcWing 878. 线性同余方程**
