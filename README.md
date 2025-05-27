@@ -124,6 +124,7 @@
 - [AcWing 148. 合并果子](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/6.%20%E8%B4%AA%E5%BF%83/AcWing_148.cpp) 🌟
 - [AcWing 905. 区间选点](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/6.%20%E8%B4%AA%E5%BF%83/AcWing_905.cpp) 🌟
 - [AcWing 906. 区间分组](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/6.%20%E8%B4%AA%E5%BF%83/AcWing_906.cpp) 🌟
+- [AcWing 913. 排队打水](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/6.%20%E8%B4%AA%E5%BF%83/AcWing_913.cpp) 🌟
 - **AcWing 907. 区间覆盖**
 - **AcWing 913. 排队打水**
 - **AcWing 125. 耍杂技的牛**
