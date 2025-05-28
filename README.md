@@ -67,8 +67,8 @@
 ---
 
 ## 第四讲 数学知识
-- **AcWing 866. 试除法判定质数**
-- **AcWing 867. 分解质因数**
+- [AcWing 866. 试除法判定质数](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/4.%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86/AcWing_866.cpp) 🧮
+- [AcWing 867. 分解质因数](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/4.%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86/AcWing_867.cpp) 🧮
 - **AcWing 868. 筛质数**
 - **AcWing 869. 试除法求约数**
 - **AcWing 870. 约数个数**
