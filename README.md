@@ -48,7 +48,7 @@
 ## 第三讲 搜索与图论
 - [AcWing 842. 排列数字](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/3.%20%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%BE%E8%AE%BA/AcWing_842.cpp) 🗺️
 - [AcWing 843. n-皇后问题](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/3.%20%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%BE%E8%AE%BA/AcWing_843.cpp) 🗺️
-- **AcWing 844. 走迷宫**
+- [AcWing 844. 走迷宫](https://github.com/cherry77-cloud/Rookie2024_03/blob/main/3.%20%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%BE%E8%AE%BA/AcWing_844.cpp) 🗺️
 - **AcWing 845. 八数码**
 - **AcWing 846. 树的重心**
 - **AcWing 847. 图中点的层次**
